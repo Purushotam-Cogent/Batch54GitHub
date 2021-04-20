@@ -10,7 +10,7 @@ System.out.println("Welcome to Jenkins Demo \n Message display below using Threa
 		System.out.print(ar[i]+" ");
 		Thread.sleep(500);
 		}catch(Exception e)
-		{}
+		{ }
 		
 	}
 	}
